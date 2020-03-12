@@ -1,0 +1,1 @@
+jnstrans|date|ISIS|IDRISIS|NONISIS|IDRNONISIS|TotTxn|TotIDR|bln|mth
